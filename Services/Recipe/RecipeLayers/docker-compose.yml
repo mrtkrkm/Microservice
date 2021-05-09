@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  recipe.webapi:
+    image: ${DOCKER_REGISTRY-}recipewebapi
+    build:
+      context: .
+      dockerfile: Recipe.WebAPI/Dockerfile

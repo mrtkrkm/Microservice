@@ -1,0 +1,17 @@
+C:/Users/gokhandidin/source/repos/SarMak/Core/bin/Release/netcoreapp3.1/Core.deps.json
+C:/Users/gokhandidin/source/repos/SarMak/Core/bin/Release/netcoreapp3.1/Core.dll
+C:/Users/gokhandidin/source/repos/SarMak/Core/bin/Release/netcoreapp3.1/Core.pdb
+C:/Users/gokhandidin/source/repos/SarMak/Core/obj/Release/netcoreapp3.1/Core.csprojAssemblyReference.cache
+C:/Users/gokhandidin/source/repos/SarMak/Core/obj/Release/netcoreapp3.1/Core.AssemblyInfoInputs.cache
+C:/Users/gokhandidin/source/repos/SarMak/Core/obj/Release/netcoreapp3.1/Core.AssemblyInfo.cs
+C:/Users/gokhandidin/source/repos/SarMak/Core/obj/Release/netcoreapp3.1/Core.dll
+C:/Users/gokhandidin/source/repos/SarMak/Core/obj/Release/netcoreapp3.1/Core.pdb
+/Users/admin/RiderProjects/SarMak/Core/bin/Release/netcoreapp3.1/Core.deps.json
+/Users/admin/RiderProjects/SarMak/Core/bin/Release/netcoreapp3.1/Core.dll
+/Users/admin/RiderProjects/SarMak/Core/bin/Release/netcoreapp3.1/Core.pdb
+/Users/admin/RiderProjects/SarMak/Core/obj/Release/netcoreapp3.1/Core.csprojAssemblyReference.cache
+/Users/admin/RiderProjects/SarMak/Core/obj/Release/netcoreapp3.1/Core.AssemblyInfoInputs.cache
+/Users/admin/RiderProjects/SarMak/Core/obj/Release/netcoreapp3.1/Core.AssemblyInfo.cs
+/Users/admin/RiderProjects/SarMak/Core/obj/Release/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache
+/Users/admin/RiderProjects/SarMak/Core/obj/Release/netcoreapp3.1/Core.dll
+/Users/admin/RiderProjects/SarMak/Core/obj/Release/netcoreapp3.1/Core.pdb

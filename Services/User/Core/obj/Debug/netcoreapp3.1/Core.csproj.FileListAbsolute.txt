@@ -1,0 +1,41 @@
+C:/Users/gokhandidin/source/repos/SarMak/Core/bin/Debug/netcoreapp3.1/Core.deps.json
+C:/Users/gokhandidin/source/repos/SarMak/Core/bin/Debug/netcoreapp3.1/Core.dll
+C:/Users/gokhandidin/source/repos/SarMak/Core/bin/Debug/netcoreapp3.1/Core.pdb
+C:/Users/gokhandidin/source/repos/SarMak/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfoInputs.cache
+C:/Users/gokhandidin/source/repos/SarMak/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfo.cs
+C:/Users/gokhandidin/source/repos/SarMak/Core/obj/Debug/netcoreapp3.1/Core.dll
+C:/Users/gokhandidin/source/repos/SarMak/Core/obj/Debug/netcoreapp3.1/Core.pdb
+C:/Users/gokhandidin/source/repos/SarMak/Core/obj/Debug/netcoreapp3.1/Core.csprojAssemblyReference.cache
+/Users/admin/AspNetProjects/SarMak/Core/bin/Debug/netcoreapp3.1/Core.deps.json
+/Users/admin/AspNetProjects/SarMak/Core/bin/Debug/netcoreapp3.1/Core.dll
+/Users/admin/AspNetProjects/SarMak/Core/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/admin/AspNetProjects/SarMak/Core/obj/Debug/netcoreapp3.1/Core.csprojAssemblyReference.cache
+/Users/admin/AspNetProjects/SarMak/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfoInputs.cache
+/Users/admin/AspNetProjects/SarMak/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfo.cs
+/Users/admin/AspNetProjects/SarMak/Core/obj/Debug/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache
+/Users/admin/AspNetProjects/SarMak/Core/obj/Debug/netcoreapp3.1/Core.dll
+/Users/admin/AspNetProjects/SarMak/Core/obj/Debug/netcoreapp3.1/Core.pdb
+/Users/admin/RiderProjects/SarMak/Core/bin/Debug/netcoreapp3.1/Core.deps.json
+/Users/admin/RiderProjects/SarMak/Core/bin/Debug/netcoreapp3.1/Core.dll
+/Users/admin/RiderProjects/SarMak/Core/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/admin/RiderProjects/SarMak/Core/obj/Debug/netcoreapp3.1/Core.csprojAssemblyReference.cache
+/Users/admin/RiderProjects/SarMak/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfoInputs.cache
+/Users/admin/RiderProjects/SarMak/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfo.cs
+/Users/admin/RiderProjects/SarMak/Core/obj/Debug/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache
+/Users/admin/RiderProjects/SarMak/Core/obj/Debug/netcoreapp3.1/Core.dll
+/Users/admin/RiderProjects/SarMak/Core/obj/Debug/netcoreapp3.1/Core.pdb
+C:\Users\mkork\Web Projects\sarmak\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\mkork\Web Projects\sarmak\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\mkork\Web Projects\sarmak\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\mkork\Web Projects\sarmak\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\mkork\Web Projects\sarmak\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\mkork\Web Projects\sarmak\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\mkork\Web Projects\sarmak\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\mkork\Web Projects\Microservice\Services\User\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\mkork\Web Projects\Microservice\Services\User\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\mkork\Web Projects\Microservice\Services\User\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\mkork\Web Projects\Microservice\Services\User\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\mkork\Web Projects\Microservice\Services\User\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\mkork\Web Projects\Microservice\Services\User\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\mkork\Web Projects\Microservice\Services\User\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\mkork\Web Projects\Microservice\Services\User\Core\obj\Debug\netcoreapp3.1\Core.pdb
